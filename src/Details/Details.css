@@ -1,0 +1,29 @@
+.details{
+  width:100%;
+  margin-top:20px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  height:max-content;
+  background:linear-gradient(0deg,rgb(5,125,158) 0%,rgb(250,250,250) 100%);
+}
+.detailsWindow{
+  width:40%;
+  display:flex;
+  height:max-content;
+}
+.rightDetails{
+  width:30%;
+  height:max-content;
+}
+.leftDetails{
+  width:70%;
+  height:max-content;
+}
+.edu{
+  margin-top:40px;
+  display:flex;
+  align-items:flex-start;
+  font-size:20px;
+  font-weight:500;
+}

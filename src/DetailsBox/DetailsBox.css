@@ -1,0 +1,19 @@
+.detailsHeading{
+  font-size:18px;
+  font-weight:500;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+}
+.detailsDesc{
+  margin-top:10px;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+}
+.detailsBox{
+  margin-top:30px;
+}
+.block{
+  margin-top:3px;
+}
