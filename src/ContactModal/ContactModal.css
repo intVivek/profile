@@ -35,7 +35,7 @@
   font-size:18px;
 }
 .contactClose:hover{
-  transition: scale(0.2);
+  transform: scale(1.2);
 }
 .contactSpan{
   display:flex;
@@ -48,5 +48,7 @@
   height:25px;
   border:1px solid rgb(0, 0, 0);
   background-color:orange;
-
+}
+.submitButton:hover{
+  transform: scale(1.04);
 }
